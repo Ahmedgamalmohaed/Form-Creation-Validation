@@ -5,3 +5,4 @@
 ["messages", "push", "isValid"]
 ["feedbackDiv", "display"] / script.js doesn't contain: ["Registration successful"] / script.js doesn't contain: ["feedbackDiv.innerHTML", "messages.join", "br", "feedbackDiv.style.color", "#dc3545"]
 ["username.length"]
+["password.length", "8"]
