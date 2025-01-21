@@ -2,3 +2,4 @@
 ["dataContainer", "getElementById", "api-data"]
 ["try", "catch", "await", "response.json()"]
 ["dataContainer.innerHTML"]
+["appendChild", "userList", "document.createElement", "ul"]
