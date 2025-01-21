@@ -4,3 +4,4 @@
 ["dataContainer.innerHTML"]
 ["appendChild", "userList", "document.createElement", "ul"]
 ["Failed to load user data"]
+["document.addEventListener", "DOMContentLoaded"]
